@@ -1,0 +1,3 @@
+[submodule "paladintest"]
+	path = paladintest
+	url = https://github.com/LF-Decentralized-Trust-labs/paladin
